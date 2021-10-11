@@ -24,13 +24,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryddik77/goit-js-hw-10-food-service.git"
+    "url": "git+https://github.com/Hubu93/goit-js-hw-10-food-service.git"
+    // "git+https://github.com/ryddik77/goit-js-hw-10-food-service.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ryddik77/goit-js-hw-10-food-service/issues"
+    "url": "https://github.com/Hubu93/goit-js-hw-10-food-service/issues"
+     //"https://github.com/ryddik77/goit-js-hw-10-food-service/issues"
   },
-  "homepage": "https://ryddik77.github.io/goit-js-hw-10-food-service"
+  "homepage":"https://hubu93.github.io/goit-js-hw-10-food-service"
+  // "https://ryddik77.github.io/goit-js-hw-10-food-service"
+  
 }
